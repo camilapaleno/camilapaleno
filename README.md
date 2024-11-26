@@ -1,5 +1,5 @@
 Hi! I'm Camila (ca-mee-la)
-I'm a web developer and designer. I'm currently learning React.js!
+I'm a web developer and designer.
 Reach out to me at hi@imcamila.dev
 
 <!---
